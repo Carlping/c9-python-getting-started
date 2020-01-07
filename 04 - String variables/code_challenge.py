@@ -4,3 +4,10 @@
 # Make sure you have a space between first and last name
 # Make sure the first letter of first name and last name is uppercase
 # Make sure the rest of the name is lowercase
+
+
+first = input("Enter your first name")
+last = input("Enter your last name")
+
+print(firtst + " " + last)
+
