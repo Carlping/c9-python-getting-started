@@ -9,5 +9,5 @@
 first = input("Enter your first name")
 last = input("Enter your last name")
 
-print(firtst + " " + last)
+print(first.upper() + " " + last.upper())
 
